@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MemberInformation>
+  <Members>
+    <Name>Jared Leto</Name>
+    <Email>jaredLeto112@gmail.com</Email>
+    <MobileNo>0121134561</MobileNo>
+    <Gender>Male</Gender>
+    <DateOfBirth>11-11-1985</DateOfBirth>
+  </Members>
+  <Members>
+    <Name>Steven Teo</Name>
+    <Email>secretcookies96@gmail.com</Email>
+    <MobileNo>0115564887</MobileNo>
+    <Gender>Male</Gender>
+    <DateOfBirth>11-11-1996</DateOfBirth>
+  </Members>
+  <Members>
+    <Name>Leo Dominic Ting</Name>
+    <Email>LeoIsAwesome999@gmail.com</Email>
+    <MobileNo>0168854461</MobileNo>
+    <Gender>Male</Gender>
+    <DateOfBirth>11-11-1995</DateOfBirth>
+  </Members>
+  <Members>
+    <Name>Ivan Suinggi</Name>
+    <Email>ngingi112@gmail.com</Email>
+    <MobileNo>0168846652</MobileNo>
+    <Gender>Male</Gender>
+    <DateOfBirth>11-11-1996</DateOfBirth>
+  </Members>
+  <Members>
+    <Name>Mike Chong</Name>
+    <Email>neg8520@gmail.com</Email>
+    <MobileNo>01136212216</MobileNo>
+    <Gender>Male</Gender>
+    <DateOfBirth>11-11-1996</DateOfBirth>
+  </Members>
+</MemberInformation>

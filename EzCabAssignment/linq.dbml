@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EzCab" Class="linqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\EzCab.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="EzCabConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.PickUp" Member="PickUps">
+    <Type Name="PickUp">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TaxiNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Depart" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Arrival" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="startTime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="endTime" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DriverName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

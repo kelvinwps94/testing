@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DriverInformation>
+  <Drivers>
+    <ICNo>940415-12-5555</ICNo>
+    <Name>Jeff</Name>
+    <Email>hwakok94@gmail.com</Email>
+    <Gender>Male</Gender>
+    <TaxiCompany>EzCab</TaxiCompany>
+    <ExpiredDrivingLicense>12/09/2016</ExpiredDrivingLicense>
+    <ContactNo>0168414941</ContactNo>
+    <CarPlateNo>SAB4988</CarPlateNo>
+  </Drivers>
+</DriverInformation>
